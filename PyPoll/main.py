@@ -1,7 +1,7 @@
 import os
 import csv
 
-pollData = os.path.join("PyPoll","Resources","election_data.csv")
+pollData = os.path.join("python-challenge","PyPoll","election_data.csv")
 #currentDirectory = os.getcwd()
 #print(currentDirectory)
 #print(pollData)
