@@ -1,7 +1,7 @@
 import os,csv
 
 # File path
-PyBank_file = os.path.join("PyBank","Resources","budget_data.csv")
+PyBank_file = os.path.join("python-challenge","PyBank","budget_data.csv")
 # Set variables
 net_total = months_count = change = greatest_increase =  greatest_decrease = 0
 greatest_increase_month = greatest_decrease_month = ("")
